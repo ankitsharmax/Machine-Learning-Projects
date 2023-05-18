@@ -1,0 +1,9 @@
+Open these links
+1. codebasisc ml playlist: https://www.youtube.com/playlist?list=PLeo1K3hjS3uvCeTYTeyfe0-rN5r8zn9rw
+2. congnitiveclass.ai [Machine learning with python]: https://apps.cognitiveclass.ai/learning/course/course-v1:BDU+ML0101EN+v4/block-v1:BDU+ML0101EN+v4+type@sequential+block@2e881a6bb30141c8bebdc1f8e0b56ca6/block-v1:BDU+ML0101EN+v4+type@vertical+block@7eca90310d7f48f59aef5cf6044c11f7
+3. https://cognitiveclass.ai/courses?type%5B%5D=guided_project&sort%5B%5D=most_popular&topic%5B%5D=artificial-intelligence&topic%5B%5D=chatbot&topic%5B%5D=computer-science-information-technology&topic%5B%5D=computer-vision&topic%5B%5D=data-analysis&topic%5B%5D=data-science&topic%5B%5D=data-visualization&topic%5B%5D=deep-learning&topic%5B%5D=machine-learning&topic%5B%5D=open-source&topic%5B%5D=python&topic%5B%5D=text-analytics&language%5B%5D=english
+4. https://cognitiveclass.ai/courses/data-science-methodology-2
+5. https://cognitiveclass.ai/courses/docker-essentials
+6. https://www.javatpoint.com/regression-analysis-in-machine-learning
+7. Make Supervised learning project on: https://www.kaggle.com/datasets/krantiswalke/bank-personal-loan-modelling
+8. Krish naik ml playlist for math intuition
